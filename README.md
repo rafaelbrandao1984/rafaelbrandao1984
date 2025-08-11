@@ -29,7 +29,7 @@ Contribuir para equipes de **infraestrutura**, **suporte técnico** e **cloud**,
 ---
 
 ## 📊 Cursos
-*(Em breve — ou liste os cursos relevantes aqui)*
+*(Em breve)*
 
 ---
 

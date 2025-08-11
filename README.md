@@ -7,11 +7,11 @@
 ---
 
 ## 🎯 Certificações
-🏆 AWS Cloud Practitioner  
-🏆 Microsoft Azure Fundamentals (AZ-900)  
-🏆 Oracle Cloud Infrastructure 2025 Certified Foundations Associate  
-🏆 Fortinet Certified Fundamentals in Cybersecurity (NSE2)  
-🏆 Fortinet Certified Associate in Cybersecurity (NSE3)  
+🏆 [AWS Cloud Practitioner](https://www.credly.com/badges/4903f0c1-d648-45d8-badd-eb5ae33d377e/linked_in_profile)   
+🏆 [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pt-br/users/rafaelbrandao/credentials/7a8bfd6d62ce4849)  
+🏆 [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A7816DF75FE5687AB88CB31898CF45BEA1F4EE511099221C108DE213C50134CD#)  
+🏆 [Fortinet Certified Fundamentals in Cybersecurity (NSE2)](https://www.credly.com/badges/e63200c9-155e-423d-8f95-a0882204691d)    
+🏆 [Fortinet Certified Associate in Cybersecurity (NSE3)](https://www.credly.com/badges/9dd850d2-d022-4cc4-9f0e-621f4d45d060)  
 
 ---
 

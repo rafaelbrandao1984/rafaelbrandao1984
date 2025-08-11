@@ -79,7 +79,7 @@ Contribuir para equipes de **infraestrutura**, **suporte técnico** e **cloud**,
     align="left" 
     alt="OCI" 
     title="Oracle Cloud Infrastructure"
-    width="40x" 
+    width="60x" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />

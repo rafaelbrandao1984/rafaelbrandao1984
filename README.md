@@ -7,13 +7,13 @@
 
 
 ## 📑 Sumário
-- [Certificações](#-certificações)
-- [Soft Skills](#-soft-skills)
-- [Hard Skills](#%EF%B8%8F-hard-skills)
-- [Foco Profissional](#-foco-profissional)
-- [Objetivo](#-objetivo)
-- [Tecnologias](#-tecnologias)
-- [Contato](#-contato)
+- [Certificações](#certificações)
+- [Soft Skills](#soft-skills)
+- [Hard Skills](#hard-skills)
+- [Foco Profissional](#foco-profissional)
+- [Objetivo](#objetivo)
+- [Tecnologias](#tecnologias)
+- [Contato](#contato)
 
 
 ## 🎯 Certificações

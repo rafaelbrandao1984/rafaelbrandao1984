@@ -7,13 +7,21 @@
 ---
 
 ## 📑 Sumário
+- [Sobre](#sobre)
 - [Certificações](#certificacoes)
 - [Soft Skills](#soft-skills)
 - [Hard Skills](#hard-skills)
 - [Foco Profissional](#foco-profissional)
-- [Objetivo](#objetivo)
+- [Projetos](#projetos)
 - [Tecnologias](#tecnologias)
 - [Contato](#contato)
+
+---
+
+<a id="sobre"></a>
+## 📝 Sobre
+Profissional com ampla experiência em **infraestrutura, suporte técnico e cloud**, com foco em **eficiência, confiabilidade e inovação**.  
+Atuação em ambientes multicloud, observabilidade e cibersegurança, integrando soluções técnicas e estratégicas para otimizar operações.
 
 ---
 
@@ -65,13 +73,16 @@
 <a id="foco-profissional"></a>
 ## 🎯 Foco Profissional
 Atuar em ambientes **multicloud** e de alta disponibilidade, aplicando soluções **cloud-native**, práticas de **observabilidade** e **cibersegurança** para garantir **confiabilidade, escalabilidade e eficiência**.  
-Meu objetivo é unir experiência técnica e visão estratégica para **otimizar infraestruturas**, **elevar padrões de segurança** e **reduzir incidentes**, sempre com foco em inovação e entrega de valor ao negócio.  
+Unir experiência técnica e visão estratégica para **otimizar infraestruturas**, **elevar padrões de segurança** e **reduzir incidentes**, sempre com foco em inovação e entrega de valor ao negócio.  
 
 ---
 
-<a id="objetivo"></a>
-## 📡 Objetivo
-Contribuir para equipes de **infraestrutura**, **suporte técnico** e **cloud**, entregando **confiabilidade, eficiência e inovação**.  
+<a id="projetos"></a>
+## 💼 Projetos / Cases
+- **Implementação de soluções de comunicação corporativo**: Implantação UNA em ambiente multicloud  
+- **Migração para nuvem híbrida**: Integração de workloads AWS e Azure, garantindo alta disponibilidade e otimização de custos  
+- **Segurança de rede**: Configuração de políticas de firewall e segmentação de VLANs, aumentando proteção de dados críticos  
+- **Suporte técnico estratégico**: Estruturação de processos N1-N3 e integração de tickets entre Zendesk e Salesforce  
 
 ---
 

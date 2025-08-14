@@ -8,9 +8,9 @@
 
 ## 📑 Sumário
 - [Certificações](#-certificações)
-- [Soft Skills](#-softskills)
-- [Hard Skills](#-hardskills)
-- [Foco Profissional](#-focoprofissional)
+- [Soft Skills](#-soft-skills)
+- [Hard Skills](#%EF%B8%8F-hard-skills)
+- [Foco Profissional](#-foco-profissional)
 - [Objetivo](#-objetivo)
 - [Tecnologias](#-tecnologias)
 - [Contato](#-contato)

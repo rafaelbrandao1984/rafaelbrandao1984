@@ -7,13 +7,12 @@
 
 
 ## 📑 Sumário
-- [Certificações](#certificações)
-- [Foco](#foco)
-- [Objetivo](#objetivo)
-- [Cursos](#cursos)
-- [Tecnologias](#tecnologias)
-- [Contato](#contato)
-
+- [Certificações](#-certificacoes)
+- [Foco](#-foco)
+- [Objetivo](#-objetivo)
+- [Cursos](#-cursos)
+- [Tecnologias](#-tecnologias)
+- [Contato](#-contato)
 
 
 ## 🎯 Certificações

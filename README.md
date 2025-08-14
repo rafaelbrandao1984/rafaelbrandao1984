@@ -7,7 +7,7 @@
 
 
 ## 📑 Sumário
-- [Certificações](#-certificacoes)
+- [Certificações](#-certificações)
 - [Foco](#-foco)
 - [Objetivo](#-objetivo)
 - [Cursos](#-cursos)
@@ -52,13 +52,13 @@ Contribuir para equipes de **infraestrutura**, **suporte técnico** e **cloud**,
   <img alt="Linux" title="Linux" width="40px" style="margin-right: 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="PuTTY" title="PuTTY" width="40px" style="margin-right: 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
   <img alt="PowerShell" title="PowerShell" width="40px" style="margin-right: 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img alt="OCI" title="Oracle Cloud Infrastructure" width="60px" style="margin-right: 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img alt="OCI" title="Oracle Cloud Infrastructure" width="40px" style="margin-right: 10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 </p>
 
 
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelbrandao/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:seuemail@dominio.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafaelbrandao-cloud/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:rafael.facsenac@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5561991742679)

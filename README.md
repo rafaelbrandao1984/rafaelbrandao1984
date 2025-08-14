@@ -8,9 +8,10 @@
 
 ## 📑 Sumário
 - [Certificações](#-certificações)
-- [Foco](#-foco)
+- [Soft Skills](#-softskills)
+- [Hard Skills](#-hardskills)
+- [Foco Profissional](#-focoprofissional)
 - [Objetivo](#-objetivo)
-- [Cursos](#-cursos)
 - [Tecnologias](#-tecnologias)
 - [Contato](#-contato)
 
@@ -23,25 +24,47 @@
 🏆 [Fortinet Certified Associate in Cybersecurity (NSE3)](https://www.credly.com/badges/9dd850d2-d022-4cc4-9f0e-621f4d45d060)  
 
 
+## 🚀 Soft Skills  
+- **Liderança técnica** e colaboração em equipes multidisciplinares  
+- **Pensamento analítico e criativo** para resolução de problemas complexos  
+- **Gestão de tempo** e priorização estratégica de tarefas  
+- Comunicação clara e adaptada a públicos técnicos e não técnicos  
+- **Tomada de decisão sob pressão**, mantendo qualidade e prazos  
 
-## 🚀 Foco
-- Ambientes multicloud  
-- Soluções cloud-native  
-- Observabilidade  
-- Cibersegurança  
+
+
+## ⚙️ Hard Skills  
+
+**Monitoramento & Observabilidade**  
+- Zabbix, Grafana, análise de métricas, diagnóstico de falhas, troubleshooting, otimização de desempenho  
+
+**Redes & Infraestrutura**  
+- Configuração e gerenciamento de equipamentos **Cisco**, **HP** e **Alcatel**  
+- Redes **LAN/WAN**, VLANs, protocolos **OSPF**, **BGP**, **TCP/IP**, **DNS**, **DHCP**  
+- Segmentação e segurança de rede  
+
+**Suporte Técnico**  
+- Atendimento **N1, N2 e N3** (remoto e presencial)  
+- Gestão de chamados: **Zendesk**, **Salesforce**  
+- Administração de **Windows Server** e **Linux**  
+
+**Cloud Computing**  
+- Fundamentos de **AWS**, **Azure** e **OCI**  
+- Ambientes híbridos e integração de soluções cloud-native  
+
+**Implantação & Homologação**  
+- Implantação de soluções, testes, validação de software/hardware, documentação técnica  
+
+
+
+## 🎯 Foco Profissional  
+Atuar em ambientes **multicloud** e de alta disponibilidade, aplicando soluções **cloud-native**, práticas de **observabilidade** e **cibersegurança** para garantir **confiabilidade, escalabilidade e eficiência**.  
+Meu objetivo é unir experiência técnica e visão estratégica para **otimizar infraestruturas**, **elevar padrões de segurança** e **reduzir incidentes**, sempre com foco em inovação e entrega de valor ao negócio.  
 
 
 
 ## 📡 Objetivo
 Contribuir para equipes de **infraestrutura**, **suporte técnico** e **cloud**, entregando **confiabilidade, eficiência e inovação**.  
-
-
-
-## 📊 Cursos
-*(Em breve)*
-
-
-
 
 
 ## 🤖 Tecnologias
